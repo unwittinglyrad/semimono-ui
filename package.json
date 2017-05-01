@@ -2,7 +2,7 @@
   "name": "semimono-ui",
   "theme": "ui",
   "version": "1.0.0",
-  "description": "A short description of your UI theme",
+  "description": "A UI theme that compliments Semimono syntax.",
   "keywords": [
     "ui",
     "theme"
